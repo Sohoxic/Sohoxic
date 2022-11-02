@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Sohoxic/Sohoxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here 👋
 
 Here are some ideas to get you started:
 
