@@ -1,12 +1,10 @@
 ### Hi there 👋
-
 # Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here 👋
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 <img align='right' src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/vector.png" height="150" width="200">
 - 📌 I'm always a fan of new technologies, I love learning about new technologies 🔧.
 - 💻 I'm a LINUX enthusiast, trying to make my own linux distro from scratch, [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
-- 
 - 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website</a>
 
 <hr></hr>
