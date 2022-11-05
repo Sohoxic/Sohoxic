@@ -5,7 +5,7 @@
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 
 
-<img align='right' src="./img/'Tech stack'/vectorImage.webp" width="280">
+<img align='right' src="./img/'Tech stack'/vector.png" width="280">
 
 - 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website</a>
 
