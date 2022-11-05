@@ -3,10 +3,9 @@
 # Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here 👋
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
-
-
-<img align='right' src="./img/'Tech stack'/vector.png" width="280">
-
+<img align='right' src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/vector.png" height="220" width="280">
+- 📌 I'm always a fan of new technologies, I love learning about new technologies 🔧.
+- 💻 I'm a LINUX enthusiast 🖱. 
 - 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website</a>
 
 <hr></hr>
