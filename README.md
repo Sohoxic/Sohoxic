@@ -2,6 +2,14 @@
 
 # Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here 👋
 
+<b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
+
+
+<img align='right' src="./img/'Tech stack'/vectorImage.webp" width="280">
+
+- 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website</a>
+
+<hr></hr>
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
