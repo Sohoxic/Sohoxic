@@ -3,7 +3,6 @@
 # Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here 👋
 
 
-[![@soham's Holopin board](https://www.holopin.io/userbadge/cla47f3js363008juvmlme2sy)](https://holopin.io/@sohoxic)
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🌮 [Introduction To Git &lpar;Version Control System&rpar;](https://sohoxic.hashnode.dev/introduction-to-git-version-control-system)
