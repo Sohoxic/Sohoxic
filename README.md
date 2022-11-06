@@ -29,5 +29,5 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here</a> for offici
  <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Linkedin.png" height = 40 width = 40/></a>
  <a href = "https://www.instagram.com/sohoxic/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Instagram.png" height = 40 width = 40/></a>
  <a href = " https://discord.com/channels/Sohoxic"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Discord.png" height = 40 width = 40/></a>
- <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
+ <a href = "https://twitter.com/sohoxic"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
 </p>
