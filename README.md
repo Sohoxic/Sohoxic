@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here 👋
 
 > <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
