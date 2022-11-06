@@ -22,9 +22,12 @@
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Sohoxic&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sohoxic&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohoxic&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohoxic&theme=nord" alt="Sohoxic" /></p>
+<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sohoxic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+
+<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohoxic&langs_count=6&layout=compact&theme=nord" /></p>
+
+<p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sohoxic&theme=nord"/></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sohoxic&icon=0&color=0)](https://visitcount.itsvg.in)
