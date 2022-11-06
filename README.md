@@ -10,7 +10,7 @@
 
 - 🔭 **Check out my <a href="https://sohoxic.hashnode.dev/">Blog website</a>**
 
-> :books: Recent Blog Posts
+> :books: **Recent Blog Posts**
 > <!-- BLOGPOSTS:START -->
  > - 🌮 [Introduction To Git &lpar;Version Control System&rpar;](https://sohoxic.hashnode.dev/introduction-to-git-version-control-system)
  > - 🚀 [Getting started with PYTHON!!! #2.3 - Operators](https://sohoxic.hashnode.dev/getting-started-with-python-23-operators)
