@@ -22,3 +22,12 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+## 📲 Connect with me
+
+Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here</a> for official discussions. <br>
+<p align = "justify">
+ <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Linkedin.png" height = 40 width = 40/></a>
+ <a href = "https://www.instagram.com/sohoxic/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Instagram.png" height = 40 width = 40/></a>
+ <a href = " https://discord.com/channels/@me"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Discord.png" height = 40 width = 40/></a>
+ <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
+</p>
