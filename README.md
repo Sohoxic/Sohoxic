@@ -6,7 +6,7 @@
 
 - 📟  **I'm always a fan of new technologies and love learning new tech stack** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 💻  **I'm a linux enthusiast, trying to make my own linux distro from scratch.** [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
+- 💻  **I'm a linux enthusiast, trying to build my own linux distro from scratch.** [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
 
 - 🔭 **Check out my <a href="https://sohoxic.hashnode.dev/">Blog website</a>**
 
@@ -18,6 +18,28 @@
  - 🌮 [Introduction To Version Control System](https://sohoxic.hashnode.dev/introduction-to-version-control-system)
  - 💫 [Getting started with PYTHON!!! #2.2 - Escape Sequence](https://sohoxic.hashnode.dev/getting-started-with-python-22-escape-sequence)<!-- BLOGPOSTS:END -->
 <hr></hr>
+
+## ⚡ Technologies that I've worked on:
+
+<p align="justify">
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/C.png" alt="c" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/C%2B%2B.png" alt="c++" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Python.png" alt="python" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Html5.png" alt="html-5" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Css.png" alt="css" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/bootstrap.png" alt="bootstrap" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Javascript.png" alt="js" height = 37, width = 37/><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/MongoDB.png" alt="mongoDB" height = 36, width = 36/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/jquery.png" alt="jquery" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/expressjs.png" alt="expressjs" height = 36, width = 36/>
+ <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="matlab" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/NodeJS.png" alt="nodejs" height = 34, width = 30/>
+
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Arduino.png" alt="arduino" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Git.png" alt="git" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Github.png" alt="github" height = 37, width = 37/>
+ 
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Linux.png" alt="linux" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/ReactJS.png" alt="reactjs" height = 37, width = 37/>
 
 
 
@@ -40,7 +62,7 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here</a> for offici
  <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Linkedin.png" height = 40 width = 40/></a>
  <a href = "https://www.instagram.com/sohoxic/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Instagram.png" height = 40 width = 40/></a>
  <a href = "https://discord.com/channels/1028756276102058044/1028759042509787186"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Discord.png" height = 40 width = 40/></a>
- <a href = "https://twitter.com/Sohoxic_"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
+ <a href = "https://twitter.com/Sohoxic_"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Twitter.png" height = 40 width = 40/></a>
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
