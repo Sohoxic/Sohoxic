@@ -7,7 +7,7 @@
 - 📟  **I'm always a fan of new technologies and love learning new tech stack** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💻  **I'm a linux enthusiast, trying to build my own linux distro from scratch.** [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
-- **I've a love-hate relationship with WEV-DEV(Doesn't imply that I can't have interesting WEV-DEV projects though 😏😏😏). These are the two superrr-interesting WEB-DEV projects 🤯 built by me, do let me know if any modifications are to be done.I'm always up for a convo and ready for any constructive criticism**
+- **I've a love-hate relationship with WEV-DEV(Doesn't imply that I can't have interesting WEV-DEV projects though 😏😏😏). These are my two superrr interesting 🤯 WEB-DEV projects 👀 **
 
 > **Click on the logo to check out my youtube clone.**
 > <br> <a href="https://utube-cloneee.netlify.app/"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a> 
