@@ -18,7 +18,7 @@
 ><br>  <a href="https://spotify-cloneee.netlify.app/"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
 
 
-- 🔭 **Check out my <a href="https://sohoxic.hashnode.dev/">Blog website</a>**
+### 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website</a>
 
 > :books: **Recent Blog Posts**
 > <!-- BLOGPOSTS:START -->
