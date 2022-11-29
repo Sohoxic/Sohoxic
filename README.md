@@ -1,19 +1,19 @@
 <img src="./assets/socials/banner-monkey.jpeg">
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">	&nbsp;Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here.🧑‍💻
-> <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
-
+ <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
+<hr>
 <img align='right' src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/vector.png" height="150" width="200">
 
 #### ▪️ 📟 I'm always a fan of new technologies and love learning new tech stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 #### ▪️ 💻 I'm a linux enthusiast, trying to build my own linux distro from scratch. [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
 #### ▪️ 💾 I've a love-hate 💔 relationship with WEV-DEV(Doesn't imply that I can't have interesting WEV-DEV projects though 😏😏😏).
- 
 
-####  🔰 These are my two superrr interesting 🤯 WEB-DEV projects 👀 :<br>
+ ✧ <i>These are my two superrr interesting 🤯 WEB-DEV projects 👀 :</i><br>
+ 
 > ➛ **Click on the logo to check out my video-streaming application.**
-> <br> <a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a><br> 
+> <br> <a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a><br> <br>
 > ➛ **Here's my music streaming-application ⏯ for all the muzic lovers out there. Click the logo to check this awesome music streaming platform.**
 ><br>  <a href="https://spotify-cloneee.netlify.app/"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
 
