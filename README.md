@@ -38,8 +38,11 @@
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Html5.png" alt="html-5" height = 37, width = 37/>
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Css.png" alt="css" height = 37, width = 37/>
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/bootstrap.png" alt="bootstrap" height = 37, width = 37/>
- <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Javascript.png" alt="js" height = 37, width = 37/><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/MongoDB.png" alt="mongoDB" height = 36, width = 36/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Javascript.png" alt="js" height = 37, width = 37/>
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/jquery.png" alt="jquery" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/ReactJS.png" alt="reactjs" height = 37, width = 37/>
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/MongoDB.png" alt="mongoDB" height = 36, width = 36/>
+ 
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/expressjs.png" alt="expressjs" height = 36, width = 36/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="matlab" height = 37, width = 37/>
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/NodeJS.png" alt="nodejs" height = 34, width = 30/>
@@ -49,8 +52,8 @@
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Github.png" alt="github" height = 37, width = 37/>
  
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Linux.png" alt="linux" height = 37, width = 37/>
- <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/ReactJS.png" alt="reactjs" height = 37, width = 37/>
-
+ <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/netlify.svg" alt="reactjs" height = 37, width = 37/>
+<img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/postman.webp" alt="reactjs" height = 37, width = 37/>
 
 
 
