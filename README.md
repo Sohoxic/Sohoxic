@@ -15,7 +15,7 @@
 > ➛ **Click on the logo to check out my video-streaming application.**
 > <br> <a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a><br> <br>
 > ➛ **Here's my music streaming-application ⏯ for all the muzic lovers out there. Click the logo to check this awesome music streaming platform.**
-><br>  <a href="https://spotify-cloneee.netlify.app/"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
+><br>  <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
 
 
 ### ▪️ 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website 📝</a>
