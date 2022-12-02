@@ -68,6 +68,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sohoxic&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🚀 Github wrapped '22
+<img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/wrapped/github-wrapped.png">
+
 ## 📲 Connect with me
 
 Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for official discussions. <br>
