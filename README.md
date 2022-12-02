@@ -10,7 +10,7 @@
 #### ▪️ 💻 I'm a linux enthusiast, trying to build my own linux distro from scratch. [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
 #### ▪️ 💾 I've a love-hate 💔 relationship with WEV-DEV (Doesn't imply that I can't have interesting WEV-DEV projects though 😏😏😏).
 
- ✧ <i>These are my two superrr interesting 🤯 WEB-DEV projects 👀 :</i><br>
+ &nbsp;&nbsp;&nbsp;&nbsp; <i>These are my two superrr interesting 🤯 WEB-DEV projects 👀 :</i><br>
  
 > ➛ **Click on the logo to check out my video-streaming application.**
 > <br> <a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a><br> <br>
