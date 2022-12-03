@@ -1,7 +1,9 @@
 <img src="./assets/socials/banner-monkey.jpeg">
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">	&nbsp;Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here.🧑‍💻
- <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
+ <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b>
+ <br>
+ <b> 📫 How to reach me - @sarkarsoham73@gmail.com </b>
 <hr>
 <img align='right' src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/vector.png" height="150" width="200">
 
