@@ -69,13 +69,16 @@
 
 <p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohoxic&langs_count=6&layout=compact&theme=nord" /></p>
 
-<p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sohoxic&theme=nord"/></p>
+<!-- contribution graph -->
+  <div>
+  <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sohoxic&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
+  </a>
+  </div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sohoxic&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 🚀 Github wrapped '22
-<img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/wrapped/github-wrapped.png">
 
 ## 📲 Connect with me
 
