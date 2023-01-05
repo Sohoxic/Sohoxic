@@ -1,7 +1,5 @@
 <img src="./assets/socials/banner-monkey.jpeg">
 
-[![@sohoxic's Holopin board](https://holopin.me/sohoxic)](https://holopin.io/@sohoxic)
-
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">	&nbsp;Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> on this side. Great seeing you here.🧑‍💻
  <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b>
  <br>
@@ -22,7 +20,6 @@
 > <br> <a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a><br> <br>
 > ➛ **Here's my music streaming-application ⏯ for all the muzic lovers out there. Click the logo to check this awesome music streaming platform.**
 ><br>  <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
-
 
 ### ▪️ 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website 📝</a>
 
@@ -76,6 +73,7 @@
   </a>
   </div>
 
+[![@sohoxic's Holopin board](https://holopin.me/sohoxic)](https://holopin.io/@sohoxic)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sohoxic&icon=0&color=0)](https://visitcount.itsvg.in)
