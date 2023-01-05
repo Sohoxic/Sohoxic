@@ -7,7 +7,9 @@
  <br>
  <b> 📫 How to reach me - @sarkarsoham73@gmail.com </b>
 <hr>
-<img align='right' src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/vector.png" height="150" width="200">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 #### ▪️ 📟 I'm always a fan of new technologies and love learning new tech stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
