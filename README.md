@@ -25,11 +25,11 @@
 
 :books: **Recent Blog Posts**
 > <!-- BLOGPOSTS:START -->
- - 🌮 [Introduction To Git &lpar;Version Control System&rpar;](https://sohoxic.hashnode.dev/introduction-to-git-version-control-system)
+ - 🌮 [🍂 How to Use Virtual Environments with the Built-In venv Module &lpar;Linux/Mac&rpar;🍁](https://sohoxic.hashnode.dev/how-to-use-virtual-environments-with-the-built-in-venv-module-linuxmac)
+ - 🚀 [Introduction To Git &lpar;Version Control System&rpar;](https://sohoxic.hashnode.dev/introduction-to-git-version-control-system)
  - 🚀 [Getting started with PYTHON!!! #2.3 - Operators](https://sohoxic.hashnode.dev/getting-started-with-python-23-operators)
- - 🚀 [What is Babel and how can you use it?](https://sohoxic.hashnode.dev/what-is-babel-and-how-can-you-use-it)
- - 🌮 [Introduction To Version Control System](https://sohoxic.hashnode.dev/introduction-to-version-control-system)
- - 💫 [Getting started with PYTHON!!! #2.2 - Escape Sequence](https://sohoxic.hashnode.dev/getting-started-with-python-22-escape-sequence)<!-- BLOGPOSTS:END -->
+ - 🌮 [What is Babel and how can you use it?](https://sohoxic.hashnode.dev/what-is-babel-and-how-can-you-use-it)
+ - 💫 [Introduction To Version Control System](https://sohoxic.hashnode.dev/introduction-to-version-control-system)<!-- BLOGPOSTS:END -->
 <hr></hr>
 
 ## ⚡ Technologies that I've worked on:
