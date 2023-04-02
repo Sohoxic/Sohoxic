@@ -47,7 +47,7 @@
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/MongoDB.png" alt="mongoDB" height = 36, width = 36/>
  
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/expressjs.png" alt="expressjs" height = 36, width = 36/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="matlab" height = 37, width = 37/>
+ 
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/NodeJS.png" alt="nodejs" height = 34, width = 30/>
 
  <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/Arduino.png" alt="arduino" height = 37, width = 37/>
