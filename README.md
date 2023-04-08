@@ -72,6 +72,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sohoxic&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
   </a>
   </div>
+  
+  ![sohoxic's snake gif](https://github.com/Sohoxic/Sohoxic/blob/main/assets/snake.svg)
 
 [![@sohoxic's Holopin board](https://holopin.me/sohoxic)](https://holopin.io/@sohoxic)
 
