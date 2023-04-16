@@ -14,13 +14,6 @@
 #### ▪️ 💻 I'm a linux enthusiast, trying to build my own linux distro from scratch. [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
 #### ▪️ 💾 I've a love-hate 💔 relationship with WEV-DEV (Doesn't imply that I can't have interesting WEV-DEV projects though 😏😏😏).
 
- &nbsp;&nbsp;&nbsp;&nbsp; <i>These are my two superrr interesting 🤯 WEB-DEV projects 👀 :</i><br>
- 
-> ➛ **Click on the logo to check out my video-streaming application.**
-> <br> <a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a><br> <br>
-> ➛ **Here's my music streaming-application ⏯ for all the muzic lovers out there. Click the logo to check this awesome music streaming platform.**
-><br>  <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
-
 ## 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website 📝</a>
 
 :books: **Recent Blog Posts**
@@ -59,7 +52,6 @@
 <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/Tech%20stack/postman.webp" alt="reactjs" height = 37, width = 37/>
 
 
-
 # 📊GitHub Stats :
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohoxic&theme=nord" alt="Sohoxic" /></p>
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sohoxic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
@@ -72,6 +64,13 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sohoxic&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
   </a>
   </div>
+  
+  ## <i>These are my two superrr interesting  WEB-DEV projects 👀:</i><br>
+ 
+
+> <br> <a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a>
+> 	&nbsp;	&nbsp; <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
+> <br>	(Click on the icons to view.)
   
   ![sohoxic's snake gif](https://github.com/Sohoxic/Sohoxic/blob/main/assets/snake.svg)
 
