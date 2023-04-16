@@ -90,5 +90,5 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for o
  <a href = "https://twitter.com/Sohoxic_"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Twitter.png" height = 40 width = 40/></a>
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
