@@ -68,8 +68,8 @@
   ## <i>These are my two superrr interesting  WEB-DEV projects 👀:</i><br>
  
 
-> <br> <a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a>
-> 	&nbsp;	&nbsp; <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
+> <br> &nbsp;	&nbsp;&nbsp;	&nbsp;<a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a>
+> 	&nbsp;	&nbsp;&nbsp;	&nbsp;&nbsp;	&nbsp; <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
 > <br>	(Click on the icons to view.)
   
   ![sohoxic's snake gif](https://github.com/Sohoxic/Sohoxic/blob/main/assets/snake.svg)
