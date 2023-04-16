@@ -21,7 +21,7 @@
 > ➛ **Here's my music streaming-application ⏯ for all the muzic lovers out there. Click the logo to check this awesome music streaming platform.**
 ><br>  <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
 
-### ▪️ 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website 📝</a>
+## 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website 📝</a>
 
 :books: **Recent Blog Posts**
 > <!-- BLOGPOSTS:START -->
