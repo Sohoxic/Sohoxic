@@ -1,6 +1,13 @@
 <img src="./assets/socials/banner-monkey.jpeg">
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">	&nbsp;Hello, <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">Soham</a> here. Great seeing you here.🧑‍💻
+<div align="center">
+ 
+# 	Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,<a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"> Soham</a> here.
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=27&duration=3000&pause=1000&color=FFFFFF&background=BBBBBBA9&center=true&vCenter=true&width=600&height=85&lines=Open-source+Enthusiast;Web+Dev+%7C+ML+%7C+DevOps+%7C+Linux" alt="Typing SVG" /></a>
+</div>
+ 
  <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b>
  <br>
  <b> 📫 How to reach me - @sarkarsoham73@gmail.com </b>
