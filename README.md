@@ -22,7 +22,18 @@
 #### ▪️ 📟 I'm always a fan of new technologies and love learning new tech stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 #### ▪️ 💻 I'm a linux enthusiast, trying to build my own linux distro from scratch. [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
-#### ▪️ 💾 I love JS.
+#### ▪️ 💾 I love JS. 
+
+## 📲 Connect with me
+
+Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for official discussions. <br>
+<p align = "justify">
+ <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Linkedin.png" height = 40 width = 40/></a>
+ <a href = "https://www.instagram.com/sohoxic/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Instagram.png" height = 40 width = 40/></a>
+ <a href = "https://discord.com/channels/1028756276102058044/1028759042509787186"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Discord.png" height = 40 width = 40/></a>
+ <a href = "https://twitter.com/Sohoxic_"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Twitter.png" height = 40 width = 40/></a>
+</p>
+
 
 ## 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website 📝</a>
 
@@ -89,15 +100,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sohoxic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📲 Connect with me
-
-Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for official discussions. <br>
-<p align = "justify">
- <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Linkedin.png" height = 40 width = 40/></a>
- <a href = "https://www.instagram.com/sohoxic/"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Instagram.png" height = 40 width = 40/></a>
- <a href = "https://discord.com/channels/1028756276102058044/1028759042509787186"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Discord.png" height = 40 width = 40/></a>
- <a href = "https://twitter.com/Sohoxic_"><img src = "https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Twitter.png" height = 40 width = 40/></a>
-</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
