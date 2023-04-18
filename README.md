@@ -6,7 +6,7 @@
 
 
  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&background=2222224B&center=true&vCenter=true&width=600&height=55&lines=Open-Source+Enthusiast;WeB+DeV+%7C+ML+%7C+DevOps+%7C+Linux" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&background=2222223B&center=true&vCenter=true&width=600&height=55&lines=Open-Source+Enthusiast;WeB+DeV+%7C+ML+%7C+DevOps+%7C+Linux" alt="Typing SVG" /></a>
 
  <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b>
  <br>
