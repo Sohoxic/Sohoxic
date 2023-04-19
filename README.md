@@ -18,10 +18,12 @@
   <img align="right" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-#### ▪️ 📟 I'm always a fan of new technologies and love learning new tech stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### ▪️ 💻 I am passionate about developing in JavaScript and thoroughly enjoy working on my projects using this language. Over time, I have accumulated a vast knowledge and experience of using JavaScript to create high-quality projects that are both dynamic and functional. I have developed the ability to create complex applications that are both intuitive and user-friendly. I take great pride in my projects and feel confident in my ability to use this language to create efficient and effective solutions. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-#### ▪️ 💻 I'm a linux enthusiast, trying to build my own linux distro from scratch. [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
-#### ▪️ 💾 I love JS. 
+
+#### ▪️ 💻 As a passionate Linux enthusiast, I have undertaken the challenge of building my own Linux distribution from scratch, using the Linux From Scratch (LFS) guide. This has been a truly fulfilling experience, allowing me to gain a deeper understanding of the Linux operating system and the various components that make it so powerful and versatile. [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
+
+#### ▪️  📈 I have always been a passionate advocate for emerging technologies and take great pleasure in learning new tech stacks.  
 
 ## 📲 Connect with me
 
