@@ -23,8 +23,7 @@
  
 <summary> ... to know more
  </summary>
- <br>
-  Over time, I have accumulated a vast knowledge and experience of using JavaScript to create high-quality projects that are both dynamic and functional.
+ <br>Over time, I have accumulated a vast knowledge and experience of using JavaScript to create high-quality projects that are both dynamic and functional.
 
 JavaScript is a versatile language that allows me to bring my ideas to life, and its ease-of-use has enabled me to create several projects that I'm proud of. I find that working with JavaScript is a satisfying experience that allows me to experiment with different frameworks and tools to create unique and innovative solutions.
 
