@@ -5,8 +5,7 @@
 # 	Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,<a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"> Soham</a> here.
 
 
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&background=2222223B&center=true&vCenter=true&width=600&height=55&lines=Open-Source+Enthusiast;WeB+DeV+%7C+ML+%7C+DevOps+%7C+Linux" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=FFFFFF&background=83838367&center=true&vCenter=true&width=520&height=57&lines=Open-Source+Enthusiast;WeB+DeV+%7C+ML+%7C+Linux+%7C+DevOps;OS+%7C+Computer+Networks" alt="Typing SVG" /></a>
 
  <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b>
  <br>
