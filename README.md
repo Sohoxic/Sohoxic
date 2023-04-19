@@ -1,4 +1,4 @@
-<img src="./assets/socials/banner.png" width="1000px" height="350px">
+<img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/Soham%20sarkar.png" width="1000px" height="400px">
 
 <div align="center">
  
