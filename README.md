@@ -1,4 +1,4 @@
-<img src="./assets/socials/banner-monkey.jpeg">
+<img src="./assets/socials/banner.png" width="1000px" height="350px">
 
 <div align="center">
  
