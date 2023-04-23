@@ -1,4 +1,4 @@
-<img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/banner-monkey.jpeg" width="1000px" height="230px">
+<img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/banner-monkey.jpeg" width="1000px" height="235px">
 
 <div align="center">
  
