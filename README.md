@@ -31,7 +31,7 @@ JavaScript is a versatile language that allows me to bring my ideas to life, and
 Through my use of JavaScript, I have developed the ability to create complex applications that are both intuitive and user-friendly. I take great pride in my projects and feel confident in my ability to use this language to create efficient and effective solutions. I'm excited to continue exploring the endless possibilities of this language and further develop my abilities.
 </details>
 
-#### ▪️ 💻 As a passionate Linux enthusiast, I have undertaken the challenge of building my own Linux distribution from scratch, using the Linux From Scratch (LFS) guide. [you can check it here](https://github.com/Sohoxic/Linux-from-SCRATCH) 🖱. 
+#### ▪️ 💻 As a passionate Linux enthusiast, I have undertaken the challenge of building my own Linux distribution from scratch, using the Linux From Scratch (LFS) guide. 🖱. 
 
 <details>
  
@@ -62,7 +62,7 @@ Learning new technologies has been a continuous process for me, and it has allow
 I believe that embracing new technologies allows me to unlock new and exciting possibilities that may not have been previously possible. By staying current with the latest developments, I can create more sophisticated and innovative solutions that can deliver better value to my clients.
  </details>
  
-## 📲 Connect with me
+## 🤝 Connect with me
 
 Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for official discussions. <br>
 <p align = "justify">
