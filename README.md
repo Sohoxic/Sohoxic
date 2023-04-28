@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/banner-monkey.jpeg" width="950px" height="210px">
-
  
 # 	Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,<a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"> Soham</a> here.
 
