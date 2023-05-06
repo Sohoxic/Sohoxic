@@ -29,6 +29,14 @@
 JavaScript is a versatile language that allows me to bring my ideas to life, and its ease-of-use has enabled me to create several projects that I'm proud of. I find that working with JavaScript is a satisfying experience that allows me to experiment with different frameworks and tools to create unique and innovative solutions.
 
 Through my use of JavaScript, I have developed the ability to create complex applications that are both intuitive and user-friendly. I take great pride in my projects and feel confident in my ability to use this language to create efficient and effective solutions. I'm excited to continue exploring the endless possibilities of this language and further develop my abilities.
+ 
+  #### <i>These are my two superrr interesting  WEB-DEV projects 👀:</i><br>
+ 
+
+> <br> &nbsp;	&nbsp;&nbsp;	&nbsp;<a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a>
+> 	&nbsp;	&nbsp;&nbsp;	&nbsp;&nbsp;	&nbsp; <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
+> <br>	(Click on the icons to view.)
+ 
 </details>
 
 #### ▪️ 💻 As a passionate Linux enthusiast, I have undertaken the challenge of building my own Linux distribution from scratch, using the Linux From Scratch (LFS) guide. 🖱. 
@@ -119,22 +127,23 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for o
 
 <!-- contribution graph -->
   <div>
-  <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
+  <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sohoxic&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
   </a>
   </div>
   
-  ## <i>These are my two superrr interesting  WEB-DEV projects 👀:</i><br>
  
-
-> <br> &nbsp;	&nbsp;&nbsp;	&nbsp;<a href="https://playris.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/utube-cloneee.png" height="40"> </a>
-> 	&nbsp;	&nbsp;&nbsp;	&nbsp;&nbsp;	&nbsp; <a href="https://groover.netlify.app"><img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/website/spotify.png" height="40"></a>
-> <br>	(Click on the icons to view.)
   
-  ![sohoxic's snake gif](https://github.com/Sohoxic/Sohoxic/blob/main/assets/snake.svg)
+<!--   ![sohoxic's snake gif](https://github.com/Sohoxic/Sohoxic/blob/main/assets/snake.svg) -->
+<hr>
 
 [![@sohoxic's Holopin board](https://holopin.me/sohoxic)](https://holopin.io/@sohoxic)
 
+<div align="center">
+ 
+<img src="https://img1.niftyimages.com/0t2/eccr/t_ci?name=Soham%20Sarkar" alt="@sohoxic's GSSOC badge" width="500" height="400">
+
+   </div>
 ---
 [![](https://visitcount.itsvg.in/api?id=Sohoxic&icon=0&color=0)](https://visitcount.itsvg.in)
 
