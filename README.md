@@ -24,6 +24,7 @@
 #### 💻 I am passionate about developing in JavaScript and thoroughly enjoy working on my projects using this language.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <details>
  
+ 
 <summary> ... to know more
  </summary>
  <br>Over time, I have accumulated a vast knowledge and experience of using JavaScript to create high-quality projects that are both dynamic and functional.
