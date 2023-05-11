@@ -141,11 +141,11 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for o
 
 [![@sohoxic's Holopin board](https://holopin.me/sohoxic)](https://holopin.io/@sohoxic)
 
-<div align="center">
+<!-- <div align="center">
  
 <img src="https://img1.niftyimages.com/0t2/eccr/t_ci?name=Soham%20Sarkar" alt="@sohoxic's GSSOC badge" width="550" height="400">
 
-   </div>
+   </div> -->
 ---
 
 
