@@ -83,7 +83,7 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for o
 </p>
 
 
-## 🔭 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website 📝</a>
+## 🔎 Check out my <a href="https://sohoxic.hashnode.dev/">Blog website 📝</a>
 
 :books: **Recent Blog Posts**
 > <!-- BLOGPOSTS:START -->
