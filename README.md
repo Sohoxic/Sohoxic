@@ -124,9 +124,9 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for o
 # 📊GitHub Stats :
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohoxic&theme=nord" alt="Sohoxic" /></p>
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sohoxic&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
-
+<div align="center">
 <p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohoxic&langs_count=6&layout=compact&theme=nord" /></p>
-
+<div>
 <!-- contribution graph -->
   <div>
   <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/">
