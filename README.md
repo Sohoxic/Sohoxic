@@ -99,11 +99,11 @@ Shoot me an email <a href = "mailto:sarkarsoham73@gmail.com">here 📩</a> for o
 
 :books: **Recent Blog Posts**
 > <!-- BLOGPOSTS:START -->
- - 🌮 [What is REST API?](https://sohoxic.hashnode.dev/what-is-rest-api)
+ - 🌮 [🧩 𝕍𝕀𝕄 - A Beginner&#39;s Guide to the Most Powerful Text Editor](https://sohoxic.hashnode.dev/vim)
+ - 🚀 [What is REST API?](https://sohoxic.hashnode.dev/what-is-rest-api)
  - 🚀 [🍂 How to Use Virtual Environments with the Built-In venv Module &lpar;Linux/Mac&rpar;🍁](https://sohoxic.hashnode.dev/how-to-use-virtual-environments-with-the-built-in-venv-module-linuxmac)
- - 🚀 [Introduction To Git &lpar;Version Control System&rpar;](https://sohoxic.hashnode.dev/introduction-to-git-version-control-system)
- - 🌮 [Getting started with PYTHON!!! #2.3 - Operators](https://sohoxic.hashnode.dev/getting-started-with-python-23-operators)
- - 💫 [What is Babel and how can you use it?](https://sohoxic.hashnode.dev/what-is-babel-and-how-can-you-use-it)<!-- BLOGPOSTS:END -->
+ - 🌮 [Introduction To Git &lpar;Version Control System&rpar;](https://sohoxic.hashnode.dev/introduction-to-git-version-control-system)
+ - 💫 [Getting started with PYTHON!!! #2.3 - Operators](https://sohoxic.hashnode.dev/getting-started-with-python-23-operators)<!-- BLOGPOSTS:END -->
 <hr></hr>
 
 ## ⚡ Technologies that I've worked on:
