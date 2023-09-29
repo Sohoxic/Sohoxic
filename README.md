@@ -3,8 +3,8 @@
 <img src="https://github.com/Sohoxic/Sohoxic/blob/main/assets/socials/banner-monkey.jpeg" width="950px" height="210px">
  
  
-# 	Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,<a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"> Soham</a> here.
-
+# <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"> Soham</a> here.
+ 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=FFFFFF&background=83838367&center=true&vCenter=true&width=520&height=57&lines=Open-Source+Enthusiast;WeB+DeV+%7C+ML+%7C+Linux+%7C+DevOps;OS+%7C+Computer+Networks" alt="Typing SVG" /></a>
 
