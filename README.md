@@ -59,17 +59,6 @@ I believe that building my own Linux distribution has given me a unique perspect
  </details>
 -->
 
-#### ▪️ 💻 I am an ardent devotee of machine learning who thoroughly enjoys creating projects within this field 🖱. 
-
-<details>
- 
-<summary> ... to know more
- </summary>
- <br>
- As an avid enthusiast of machine learning, I derive immense pleasure from conceptualizing and implementing various projects within this domain. I find great joy in exploring the vast possibilities that machine learning offers and leveraging its potential to develop innovative solutions. With a strong penchant for learning and staying up-to-date with the latest advancements in the field, I am constantly seeking opportunities to deepen my knowledge and enhance my skills. Building projects within the realm of machine learning fuels my passion and allows me to contribute to the ever-evolving landscape of this exciting technology.
- 
- </details>
-
 #### ▪️  📈 I have always been a passionate advocate for emerging technologies and take great pleasure in learning new tech stacks.  
 
  <details>
