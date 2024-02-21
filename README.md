@@ -6,7 +6,7 @@
 # <a href = "https://www.linkedin.com/in/soham-sarkar-b92557220/"> Soham</a> here.
  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=FFFFFF&background=83838367&center=true&vCenter=true&width=520&height=57&lines=Open-Source+Enthusiast;WeB+DeV+%7C+ML+%7C+Linux+%7C+DevOps;OS+%7C+Computer+Networks" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=700&size=22&duration=3500&pause=1000&color=EDF3F3&background=5A5A5A&center=true&vCenter=true&random=false&width=435&lines=Distributed+Systems+%7C+Cloud+%7C+Full+Stack+%7C+ML+" alt="Typing SVG" /></a>
 
  <b>I'm currently pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b>
  <br>
@@ -26,11 +26,11 @@
  
 <summary> ... to know more
  </summary>
- <br>Over time, I have accumulated a vast knowledge and experience of using JavaScript to create high-quality projects that are both dynamic and functional.
+ <br>
 
-JavaScript is a versatile language that allows me to bring my ideas to life, and its ease-of-use has enabled me to create several projects that I'm proud of. I find that working with JavaScript is a satisfying experience that allows me to experiment with different frameworks and tools to create unique and innovative solutions.
+JavaScript is a versatile language that allows me to bring my ideas to life, and its ease-of-use has enabled me to create several projects that I'm proud of. 
 
-Through my use of JavaScript, I have developed the ability to create complex applications that are both intuitive and user-friendly. I take great pride in my projects and feel confident in my ability to use this language to create efficient and effective solutions. I'm excited to continue exploring the endless possibilities of this language and further develop my abilities.
+ I'm excited to continue exploring the endless possibilities of this language and further develop my abilities.
  
   #### <i>These are my two superrr interesting  WEB-DEV projects 👀:</i><br>
  
@@ -40,38 +40,9 @@ Through my use of JavaScript, I have developed the ability to create complex app
 > <br>	(Click on the icons to view.)
  
 </details>
-<!---  
+
 #### ▪️ 💻 As a passionate Linux enthusiast, I have undertaken the challenge of building my own Linux distribution from scratch, using the Linux From Scratch (LFS) guide. 🖱. 
 
-<details>
- 
-<summary> ... to know more
- </summary>
- <br>
- As a passionate Linux enthusiast, I have undertaken the challenge of building my own Linux distribution from scratch, using the Linux From Scratch (LFS) guide. This has been a truly fulfilling experience, allowing me to gain a deeper understanding of the Linux operating system and the various components that make it so powerful and versatile.
-
-The LFS guide has provided me with an in-depth understanding of how to construct a Linux distribution from the ground up, and has given me the opportunity to experiment with different tools and configurations to create a system that is uniquely tailored to my needs. I have enjoyed the process of selecting and compiling each individual component, customizing the system to my specific requirements.
-
-The process of building my own Linux distribution has been challenging at times, but it has been an incredibly rewarding experience. Not only have I gained a deeper understanding of the inner workings of Linux, but I have also been able to create a system that is truly my own.
-
-I believe that building my own Linux distribution has given me a unique perspective and skill set that sets me apart as a Linux enthusiast and developer. It has allowed me to gain a deeper appreciation for the intricacies of the Linux operating system and has equipped me with a greater understanding of how to optimize and customize Linux distributions for specific use cases.
- 
- </details>
--->
-
-#### ▪️  📈 I have always been a passionate advocate for emerging technologies and take great pleasure in learning new tech stacks.  
-
- <details>
- 
-<summary> ... to know more
- </summary>
- <br>
-I have always been a passionate advocate for emerging technologies and take great pleasure in learning new tech stacks. As a developer, staying up-to-date with the latest technological trends and innovations is crucial to creating cutting-edge solutions that are both effective and efficient.
-
-Learning new technologies has been a continuous process for me, and it has allowed me to broaden my skills and experience. I find that exploring new tech stacks not only keeps me motivated, but also helps me to remain competitive in a constantly evolving industry.
-
-I believe that embracing new technologies allows me to unlock new and exciting possibilities that may not have been previously possible. By staying current with the latest developments, I can create more sophisticated and innovative solutions that can deliver better value to my clients.
- </details>
  
 ## 🤝 Connect with me
 
